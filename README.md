@@ -4,7 +4,7 @@
 
 This is an extension of QGroundControl that provides some additional features in QGControl to optimize the drone trajectory and energy consumption.
 
-The list of additional features, their description and their use are mentioned on the link.
+The list of additional features, their description and their use are mentioned on the [link](https://docs.google.com/presentation/d/1INAbxRJxul3wHkVudp6JSQHbo7yK59PzovAylaD3nAE/edit?usp=sharing).
 
 
 **Installation and Pre-requisites**
@@ -18,5 +18,6 @@ The files that are changed for adding these features are
 
 **References**
 [1] http://qgroundcontrol.com/
+
 [2] S. Iyengar, R.R. Saxena, J. Pal, B. Chhaglani, A. Ghosh, V.N. Padmanabhan, P.T. Venkata 2021. Holistic Energy Awareness for Intelligent Drones In Proceedings of ACM International Conference on Systems for Energy-Efficient Buildings, Cities, and Transportation (BuildSys ’21), November 17–18, 2021, Coimbra, Portugal.ACM, New York, NY, USA, 11 pages. https://doi.org/10.1145/3486611.3486651
 
