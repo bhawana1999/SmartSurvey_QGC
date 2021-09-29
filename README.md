@@ -1,5 +1,9 @@
 # SmartSurvey_QGC
 
+@settings {
+  font-size: 100;
+}
+
 **QGroundControl**
 
 This is an extension of QGroundControl that provides some additional features in QGControl to optimize the drone trajectory and energy consumption.
