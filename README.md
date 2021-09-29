@@ -14,7 +14,7 @@ Please refer to QgroundControl [Github page](https://github.com/mavlink/qgroundc
 
 **How to Run**
 
-The files that are changed for adding these features are SurveyComplexItem.cc, SurveyComplexItem.h, Survey.SettingsGroup.json in the MissionManager folder under src and the SurveyItemEditor.qml file in PlanView folder under src. 
+The files that are changed for adding these features are _SurveyComplexItem.cc_, _SurveyComplexItem.h_, _Survey.SettingsGroup.json_ in the **MissionManager** folder under src and the _SurveyItemEditor.qml_ file in **PlanView** folder under src. Compile the code on Qt after replacing these four files.
 
 
 **References**
